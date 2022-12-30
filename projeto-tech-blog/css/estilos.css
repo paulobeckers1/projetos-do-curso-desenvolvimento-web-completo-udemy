@@ -23,6 +23,21 @@ body {
     padding: 10px;
 }
 
+#area-principal {
+    width: 920px;
+    margin: 0 auto;
+}
+
+#area-postagens {
+    width: 660px;
+
+}
+
+#area-postagens {
+    width: 660px;
+
+}
+
 /*
 **** Formatação do menu ****
 */
