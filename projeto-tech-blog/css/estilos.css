@@ -29,7 +29,7 @@ body {
     padding: 15px;
 }
 
-#area-postagens, #area-lateral {
+#area-lateral {
     background: orange;
 }
 
@@ -49,6 +49,7 @@ body {
     margin-bottom: 20px;
     background: white;
 }
+ 
 
 #rodape {
     clear: both;
@@ -78,6 +79,7 @@ a:hover {
 #area-cabecalho a:hover {
     color: #f7b600 ;
     background: #FFF;
+    text-decoration: none;
  }
 /*
 **** Formatações em geral ****
