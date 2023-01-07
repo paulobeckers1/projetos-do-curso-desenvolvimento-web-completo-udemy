@@ -1,27 +1,5 @@
-/*seletor universal --> *{} <-- Seleciona todos os elementos da página */
-
+/*Limpar formatações padrão*/
 * {
-    border: 1px solid red;
+    margin: 0;
+    padding: 0;
 }
-
-/*seletor de texto --> h1, h2, h3{} <-- Seleciona os elementos <h1>, <h2> e <h3> */
-
-h1 {
-    border: 1px solid green;
-}
-
-/*seletor de classe --> azul{} <-- Seleciona qualquer elemento que o atributo class tem o valor "azul" */
-p.azul {
-    border: 1px solid purple;
-}
-
-.azul {
-    border: 1px solid blue;
-}
-
-/*seletor de id --> #cabecalho{} <-- Seleciona o elemento que o atributo id tem o valor "cabecalho" */
-
-#cabecalho {
-    border: 1px solid yellow;
-}
-
